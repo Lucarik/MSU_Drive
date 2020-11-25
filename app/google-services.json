@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "60926841994",
+    "firebase_url": "https://justin-s-database.firebaseio.com",
+    "project_id": "justin-s-database",
+    "storage_bucket": "justin-s-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60926841994:android:ac0189897d0404a27ec973",
+        "android_client_info": {
+          "package_name": "com.example.msudrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60926841994-764oi64fj0gd3hg1mgchohachgd2mss7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf7PKtbaPB051M4tNCjd6dqpjdHLa2h_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60926841994-764oi64fj0gd3hg1mgchohachgd2mss7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

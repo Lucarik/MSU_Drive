@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MSU Drive</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="tracking_enabled_notif">Tracking is currently enabled. Tap to cancel.</string>
+    <string name="test_email">test@test.com</string>
+    <string name="test_password">testpassword</string>
+    <string name="firebase_path">location</string>
+    <string name="msu_drive">MSU Drive</string>
+    <string name="this_application_will_show_the_route_by_car_from_your_current_location_to_montclair_state_university">This application will show the route by car from your current location to Montclair State University</string>
+    <string name="to_run_properly_this_application_needs_permission_to_access_your_location">To run properly, this application needs permission to access your location</string>
+    <string name="after_giving_location_permissions_to_this_application_click_the_button_below_to_navigate_a_route_to_msu">After giving location permissions to this application, click the button below to navigate a route to MSU</string>
+    <string name="drive_to_msu">Drive to MSU</string>
+</resources>
